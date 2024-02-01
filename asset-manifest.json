@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/basicsTech/static/css/main.77129bcd.css",
+    "main.js": "/basicsTech/static/js/main.93b4bf05.js",
+    "static/js/787.c922dae8.chunk.js": "/basicsTech/static/js/787.c922dae8.chunk.js",
+    "static/media/developerIcon.jpg": "/basicsTech/static/media/developerIcon.5f6698db91423940b332.jpg",
+    "static/media/codeguru.jpg": "/basicsTech/static/media/codeguru.aecafb9e823bb471d089.jpg",
+    "static/media/github.svg": "/basicsTech/static/media/github.adb057e9b81365542cdfd2327c007aa2.svg",
+    "static/media/linkdin.svg": "/basicsTech/static/media/linkdin.c304a4148cde039a54532585f4d47b48.svg",
+    "index.html": "/basicsTech/index.html",
+    "static/media/facebook.svg": "/basicsTech/static/media/facebook.5e1cb4b86ac3f872dadcbde3ed31cd4b.svg",
+    "static/media/twitter.svg": "/basicsTech/static/media/twitter.81b8d7b48cfbc7aa2834f7226e891523.svg",
+    "main.77129bcd.css.map": "/basicsTech/static/css/main.77129bcd.css.map",
+    "main.93b4bf05.js.map": "/basicsTech/static/js/main.93b4bf05.js.map",
+    "787.c922dae8.chunk.js.map": "/basicsTech/static/js/787.c922dae8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77129bcd.css",
+    "static/js/main.93b4bf05.js"
+  ]
+}
